@@ -1,54 +1,56 @@
 location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
-Denmark,2020-12-27,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,6483,6483,
-Denmark,2020-12-28,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,8469,8469,
-Denmark,2020-12-29,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,17410,17410,
-Denmark,2020-12-30,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,28870,28870,
-Denmark,2020-12-31,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,35057,35057,
-Denmark,2021-01-01,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,37396,37396,
-Denmark,2021-01-02,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,46269,46269,
-Denmark,2021-01-03,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,52286,52286,
-Denmark,2021-01-04,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,54687,54687,
-Denmark,2021-01-05,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,68215,68215,
-Denmark,2021-01-06,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,87996,87996,
-Denmark,2021-01-07,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,105524,105524,
-Denmark,2021-01-08,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,114019,114019,
-Denmark,2021-01-09,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,115918,115918,
-Denmark,2021-01-10,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,116731,116731,
-Denmark,2021-01-11,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,117388,117388,
-Denmark,2021-01-12,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,117850,117850,
-Denmark,2021-01-13,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,130590,130590,
-Denmark,2021-01-14,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,148525,148525,
-Denmark,2021-01-15,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,163769,163764,5
-Denmark,2021-01-16,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,168392,168380,12
-Denmark,2021-01-17,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,171645,170917,728
-Denmark,2021-01-18,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,177681,174810,2871
-Denmark,2021-01-19,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,182265,177298,4967
-Denmark,2021-01-20,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,185668,178808,6860
-Denmark,2021-01-21,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,189562,180340,9222
-Denmark,2021-01-22,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,195904,181002,14902
-Denmark,2021-01-23,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,203795,181772,22023
-Denmark,2021-01-24,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,210984,182382,28602
-Denmark,2021-01-25,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,213696,182635,31061
-Denmark,2021-01-26,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,215667,182848,32819
-Denmark,2021-01-27,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,220250,183059,37191
-Denmark,2021-01-28,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,228616,183300,45316
-Denmark,2021-01-29,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,248084,184430,63654
-Denmark,2021-01-30,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,262364,185658,76706
-Denmark,2021-01-31,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,275969,186917,89052
-Denmark,2021-02-01,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,284610,187666,96944
-Denmark,2021-02-02,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,289694,189720,99974
-Denmark,2021-02-03,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,297441,191275,106166
-Denmark,2021-02-04,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,309812,192710,117102
-Denmark,2021-02-05,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,324890,194290,130600
-Denmark,2021-02-06,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,332594,195317,137277
-Denmark,2021-02-07,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,338148,197228,140920
-Denmark,2021-02-08,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,347756,199777,147979
-Denmark,2021-02-09,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,356224,203327,152897
-Denmark,2021-02-10,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,363423,206605,156818
-Denmark,2021-02-11,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,371491,212218,159273
-Denmark,2021-02-12,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,390956,224172,166784
-Denmark,2021-02-13,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,398494,230730,167764
-Denmark,2021-02-14,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,405342,236947,168395
-Denmark,2021-02-15,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,422264,250745,171519
-Denmark,2021-02-16,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,436765,263922,172843
-Denmark,2021-02-17,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-18022021-a9c3,447240,273981,173259
+Denmark,2020-12-27,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,6481,6481,
+Denmark,2020-12-28,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,8465,8465,
+Denmark,2020-12-29,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,17401,17401,
+Denmark,2020-12-30,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,28861,28861,
+Denmark,2020-12-31,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,35043,35043,
+Denmark,2021-01-01,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,37380,37380,
+Denmark,2021-01-02,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,46246,46246,
+Denmark,2021-01-03,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,52257,52257,
+Denmark,2021-01-04,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,54658,54658,
+Denmark,2021-01-05,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,68178,68178,
+Denmark,2021-01-06,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,87944,87944,
+Denmark,2021-01-07,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,105460,105460,
+Denmark,2021-01-08,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,113944,113944,
+Denmark,2021-01-09,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,115843,115843,
+Denmark,2021-01-10,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,116656,116656,
+Denmark,2021-01-11,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,117313,117313,
+Denmark,2021-01-12,Pfizer/BioNTech,https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,117775,117775,
+Denmark,2021-01-13,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,130512,130512,
+Denmark,2021-01-14,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,148444,148444,
+Denmark,2021-01-15,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,163682,163677,5
+Denmark,2021-01-16,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,168305,168293,12
+Denmark,2021-01-17,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,171559,170831,728
+Denmark,2021-01-18,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,177593,174723,2870
+Denmark,2021-01-19,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,182179,177212,4967
+Denmark,2021-01-20,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,185582,178721,6861
+Denmark,2021-01-21,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,189472,180250,9222
+Denmark,2021-01-22,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,195812,180914,14898
+Denmark,2021-01-23,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,203721,181685,22036
+Denmark,2021-01-24,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,210907,182297,28610
+Denmark,2021-01-25,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,213620,182551,31069
+Denmark,2021-01-26,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,215591,182765,32826
+Denmark,2021-01-27,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,220171,182976,37195
+Denmark,2021-01-28,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,228536,183218,45318
+Denmark,2021-01-29,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,248008,184350,63658
+Denmark,2021-01-30,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,262273,185578,76695
+Denmark,2021-01-31,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,275876,186837,89039
+Denmark,2021-02-01,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,284520,187590,96930
+Denmark,2021-02-02,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,289601,189641,99960
+Denmark,2021-02-03,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,297345,191194,106151
+Denmark,2021-02-04,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,309713,192629,117084
+Denmark,2021-02-05,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,324792,194211,130581
+Denmark,2021-02-06,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,332523,195245,137278
+Denmark,2021-02-07,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,338078,197157,140921
+Denmark,2021-02-08,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,347684,199703,147981
+Denmark,2021-02-09,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,356156,203256,152900
+Denmark,2021-02-10,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,363356,206535,156821
+Denmark,2021-02-11,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,371456,212180,159276
+Denmark,2021-02-12,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,391045,224171,166874
+Denmark,2021-02-13,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,398583,230729,167854
+Denmark,2021-02-14,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,405435,236950,168485
+Denmark,2021-02-15,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,422365,250750,171615
+Denmark,2021-02-16,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,436870,263929,172941
+Denmark,2021-02-17,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,447683,274319,173364
+Denmark,2021-02-18,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,459382,285717,173665
+Denmark,2021-02-19,"Moderna, Pfizer/BioNTech",https://files.ssi.dk/covid19/vaccinationstilslutning/status/vaccinationstilslutning-20022021-d1j7,473945,299335,174610
